@@ -1,4 +1,4 @@
-﻿# ----- Edit these Variables for your own Use Case ----- #
+ # ----- Edit these Variables for your own Use Case ----- #
 $PASSWORD_FOR_USERS   = "Password1"
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt
 # ------------------------------------------------------ #
@@ -22,3 +22,5 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
                -Path "ou=_USERS,$(([ADSI]`"").distinguishedName)" `
                -Enabled $true
 }
+
+# ---- This script is used from internet and not written by me ---- #
