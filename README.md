@@ -15,3 +15,7 @@
 * Automated user account creation by running a PowerShell script to import entries from a names.txt file into Active Directory, including initial password setup.
 
 * Provisioned a Windows 11 virtual machine, joined it to the domain, and verified DNS functionality and network connectivity using command-line tools such as ping.
+
+## Tools Used
+
+## Skills
