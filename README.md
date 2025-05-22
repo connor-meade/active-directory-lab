@@ -17,9 +17,12 @@
 * Provisioned a Windows 11 virtual machine, joined it to the domain, and verified DNS functionality and network connectivity using command-line tools such as ping.
 
 ## Tools Used
-![Diagram](VM-Photos/Diagram.png)
-![importing]
-![IP lease]
-![Virtual Box]
+![importing](Diagram.png)
+![IP lease](IP Lease.png)
+![Virtual Box](importing.png)
 
 ## Skills
+
+
+Outline of Project
+![Diagram](VM-Photos/Diagram.png)
