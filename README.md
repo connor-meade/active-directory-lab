@@ -6,7 +6,7 @@
 
 * Configured a dual-NIC setup to separate internet access (NAT) from internal domain traffic using a private subnet (172.168.0.0/24), ensuring secure and isolated domain communication.
 
-* Created an administrative OU and a user account, assigned the account Domain Admin rights.
+* Created an administrative OU and a user account, assigned the account Domain Admin rights. Changed Admin user account password.
 
 * Configured Routing and Remote Access Service (RRAS) to provide NAT-based internet access for the internal network.
 
