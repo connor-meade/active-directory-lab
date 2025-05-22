@@ -40,14 +40,14 @@ Simulated an Active Directory environment using Windows Server 2022 in VirtualBo
 - OU and permission management in Active Directory
 
 ## 📸 Screenshots
-Both virtual machines:
+**Both virtual machines:**
 ![Virtual Box](VM-Photos/VirtualBox.png)
 
-Script to import users:
+**Script to import users:**
 ![importing](VM-Photos/importing.png)
 
-IP Address Leases list on DC with joined VM:
+**IP Address Leases list on DC with joined VM:**
 ![IP lease](VM-Photos/IP%20lease.png)
 
-Diagram the Home Lab is based off of:
+**Diagram the Home Lab is based off of:**
 ![Diagram](VM-Photos/Diagram.png)
