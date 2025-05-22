@@ -23,11 +23,14 @@
 
 
 ### Pictures
-
-![importing](VM-Photos/importing.png)
-
-![IP lease](VM-Photos/IP lease.png)
-
+Both virtual machines:
 ![Virtual Box](VM-Photos/VirtualBox.png)
 
+Script to import users:
+![importing](VM-Photos/importing.png)
+
+IP Address Leases list on DC with joined VM:
+![IP lease](VM-Photos/IP%20lease.png)
+
+Diagram the Home Lab is based off of:
 ![Diagram](VM-Photos/Diagram.png)
